@@ -7,7 +7,8 @@
 
 body{
     font-family: Arial, Helvetica, sans-serif;
-    background: lightgray url('../imagens/pexels-gdtography-277628-911738.jpg') top center/cover no-repeat fixed;
+    /* background: lightgray url('../imagens/pexels-gdtography-277628-911738.jpg') top center/cover no-repeat fixed; */
+    background-color: lightgray;
 }
 
 header{
